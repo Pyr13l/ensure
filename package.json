@@ -1,5 +1,5 @@
 {
-  "name": "ensure",
+  "name": "@mreinlaender/ensure",
   "version": "1.0.0",
   "description": "Small TypeScript util to safely access member of objects marked as optional or possible null / undefined",
   "main": "index.ts",
